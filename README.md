@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Rajkumarrabbi1@gmail.com**
 
-- 📄 Know about my experiences [Eeh, I am still a kiddo.](Eeh, I am still a kiddo.)
+- 📄 Know about my experiences Bruh, I am still a kiddo.
 
 - ⚡ Fun fact **Lmao, I think i am too funny.**
 
