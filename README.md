@@ -10,17 +10,17 @@
 
 - 🍁 <del>I’m currently learning</del> **Python & C++**
 
-  - 🤟 I’m looking for help with **Best Ai bot**
+  - 🤟 <del>I’m looking for help with</del> **Best Ai bot**
 
-    - 📝 I regularly write articles on [https://piccihimu.bio.link](https://piccihimu.bio.link)
+    - 📝 <del>I regularly write articles on</del> [https://piccihimu.bio.link](https://piccihimu.bio.link)
 
-      - 💬 Ask me about **Anything**
+      - 💬 <del>Ask me about</del> **Anything**
 
-        - 📄 How to reach me **Piccihimu@yahoo.com**
+        - 📄 <del>How to reach me</del> **Piccihimu@yahoo.com**
 
-          - 📄 Know about my experiences Bruh, I am still a kiddo.
+          - 📄 <del>Know about my experiences Bruh, I am still a kiddo.</del>
 
-            - 🌠 Fun fact **Lmao, I think i am too funny.**
+            - 🌠 <del>Fun fact</del> **Lmao, I think i am too funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
