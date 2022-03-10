@@ -10,17 +10,17 @@
 
 - 🌱 I’m currently learning **Python & C++**
 
-- 🤝 I’m looking for help with **Best Ai bot**
+  - 🤝 I’m looking for help with **Best Ai bot**
 
-- 📝 I regularly write articles on [https://piccihimu.bio.link](https://piccihimu.bio.link)
+    - 📝 I regularly write articles on [https://piccihimu.bio.link](https://piccihimu.bio.link)
 
-- 💬 Ask me about **Anything**
+      - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **Piccihimu@yahoo.com**
+        - 📫 How to reach me **Piccihimu@yahoo.com**
 
-- 📄 Know about my experiences Bruh, I am still a kiddo.
+          - 📄 Know about my experiences Bruh, I am still a kiddo.
 
-- ⚡ Fun fact **Lmao, I think i am too funny.**
+            - ⚡ Fun fact **Lmao, I think i am too funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
