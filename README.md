@@ -25,8 +25,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/piccihimu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piccihimu" height="30" width="40" /></a>
-<a href="https://fb.com/LMAOhehe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itwillrabbi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/infinite rabbiex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinite rabbiex" height="30" width="40" /></a>
+<a href="https://fb.com/LMAOheheKiddingXD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itwillrabbi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCD9-tNGTYf91gh6iSVxxI7Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinite rabbiex" height="30" width="40" /></a>
 <a href="https://discord.gg/CSu9jyWmGJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CSu9jyWmGJ" height="30" width="40" /></a>
 </p>
 
